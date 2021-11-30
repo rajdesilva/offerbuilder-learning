@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeepLinkSettings component test create DeepLinkSettings components snapshot 1`] = `
+<div
+  class="ant-row"
+  style="margin: -4px -4px 4px -4px;"
+>
+  <div
+    class="ant-col ant-col-6"
+    style="padding: 4px 4px 4px 4px;"
+  >
+    <h3>
+      Deep Link Settings
+    </h3>
+  </div>
+</div>
+`;

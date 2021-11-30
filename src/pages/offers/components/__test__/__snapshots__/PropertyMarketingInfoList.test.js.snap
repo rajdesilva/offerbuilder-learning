@@ -1,0 +1,267 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PropertyMarketingInfoList component test create PropertyMarketingInfoList components snapshot 1`] = `
+<div
+  class="ant-collapse ant-collapse-icon-position-left"
+>
+  <div
+    class="ant-collapse-item ant-collapse-item-active"
+  >
+    <div
+      aria-expanded="true"
+      class="ant-collapse-header"
+      role="button"
+      tabindex="0"
+    >
+      <span
+        aria-label="right"
+        class="anticon anticon-right ant-collapse-arrow"
+        role="img"
+      >
+        <svg
+          aria-hidden="true"
+          data-icon="right"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          style="transform: rotate(90deg);"
+          viewBox="64 64 896 896"
+          width="1em"
+        >
+          <path
+            d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
+          />
+        </svg>
+      </span>
+      AJSG Hotel
+    </div>
+    <div
+      class="ant-collapse-content ant-collapse-content-active"
+    >
+      <div
+        class="ant-collapse-content-box"
+      >
+        <form
+          class="ant-form ant-form-horizontal"
+          id="DEMO_JEEVAN,ntp,NEMO_CH_06,propertyDescription"
+        >
+          <div
+            class="ant-tabs ant-tabs-top"
+            data-testid="description-tab"
+          >
+            <div
+              class="ant-tabs-nav"
+              role="tablist"
+            >
+              <div
+                class="ant-tabs-nav-wrap"
+              >
+                <div
+                  class="ant-tabs-nav-list"
+                  style="transform: translate(0px, 0px);"
+                >
+                  <div
+                    class="ant-tabs-tab ant-tabs-tab-active"
+                  >
+                    <div
+                      aria-controls="rc-tabs-test-panel-EN"
+                      aria-selected="true"
+                      class="ant-tabs-tab-btn"
+                      id="rc-tabs-test-tab-EN"
+                      role="tab"
+                      tabindex="0"
+                    >
+                      English
+                    </div>
+                  </div>
+                  <div
+                    class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
+                  />
+                </div>
+              </div>
+              <div
+                class="ant-tabs-nav-operations ant-tabs-nav-operations-hidden"
+              >
+                <button
+                  aria-controls="rc-tabs-test-more-popup"
+                  aria-expanded="false"
+                  aria-haspopup="listbox"
+                  aria-hidden="true"
+                  class="ant-tabs-nav-more"
+                  id="rc-tabs-test-more"
+                  style="visibility: hidden; order: 1;"
+                  tabindex="-1"
+                  type="button"
+                >
+                  <span
+                    aria-label="ellipsis"
+                    class="anticon anticon-ellipsis"
+                    role="img"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      data-icon="ellipsis"
+                      fill="currentColor"
+                      focusable="false"
+                      height="1em"
+                      viewBox="64 64 896 896"
+                      width="1em"
+                    >
+                      <path
+                        d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"
+                      />
+                    </svg>
+                  </span>
+                </button>
+              </div>
+            </div>
+            <div
+              class="ant-tabs-content-holder"
+            >
+              <div
+                class="ant-tabs-content ant-tabs-content-top"
+              >
+                <div
+                  aria-hidden="false"
+                  aria-labelledby="rc-tabs-test-tab-EN"
+                  class="ant-tabs-tabpane ant-tabs-tabpane-active"
+                  id="rc-tabs-test-panel-EN"
+                  role="tabpanel"
+                  tabindex="0"
+                >
+                  <div
+                    class="ant-row"
+                    style="margin: -4px -4px 4px -4px;"
+                  >
+                    <div
+                      class="ant-col ant-col-4"
+                      style="padding: 4px 4px 4px 4px;"
+                    >
+                      Description
+                    </div>
+                    <div
+                      class="ant-col ant-col-16"
+                      style="padding: 4px 4px 4px 4px;"
+                    >
+                      <div
+                        class="ant-row ant-form-item"
+                      >
+                        <div
+                          class="ant-col ant-form-item-control"
+                        >
+                          <div
+                            class="ant-form-item-control-input"
+                          >
+                            <div
+                              class="ant-form-item-control-input-content"
+                            >
+                              <textarea
+                                class="ant-input"
+                                data-testid="supplier-description-textarea"
+                                id="DEMO_JEEVAN,ntp,NEMO_CH_06,propertyDescription_0_EN_description"
+                                maxlength="50000"
+                                placeholder="Supplier Did Not Provide Description"
+                                rows="6"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="ant-row"
+                    style="margin: -4px -4px 4px -4px;"
+                  >
+                    <div
+                      class="ant-col ant-col-4"
+                      style="padding: 4px 4px 4px 4px;"
+                    >
+                      Short Description
+                    </div>
+                    <div
+                      class="ant-col ant-col-8"
+                      style="padding: 4px 4px 4px 4px;"
+                    >
+                      <div
+                        class="ant-row ant-form-item"
+                      >
+                        <div
+                          class="ant-col ant-form-item-control"
+                        >
+                          <div
+                            class="ant-form-item-control-input"
+                          >
+                            <div
+                              class="ant-form-item-control-input-content"
+                            >
+                              <input
+                                class="ant-input"
+                                data-testid="supplier-desc-input"
+                                id="DEMO_JEEVAN,ntp,NEMO_CH_06,propertyDescription_0_EN_shortDescription"
+                                maxlength="5000"
+                                placeholder="Supplier Did Not Provide Description"
+                                rows="1"
+                                type="text"
+                                value=""
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="ant-divider ant-divider-horizontal"
+                    role="separator"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="ant-row ant-form-item"
+          >
+            <div
+              class="ant-col ant-form-item-control"
+            >
+              <div
+                class="ant-form-item-control-input"
+              >
+                <div
+                  class="ant-form-item-control-input-content"
+                >
+                  <div
+                    class="ant-row"
+                  >
+                    <div
+                      class="ant-col ant-col-4"
+                    >
+                      Images
+                    </div>
+                    <div
+                      class="ant-col ant-col-20"
+                    >
+                      <button
+                        class="ant-btn ant-btn-primary ant-btn-background-ghost"
+                        data-testid="add-or-remove-image-btn"
+                        type="button"
+                      >
+                        Add
+                        <span>
+                           
+                        </span>
+                        Images
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`View Images component test create Images components snapshot 1`] = `
+<div
+  class="ant-row"
+  style="margin: -4px -4px 4px -4px;"
+>
+  <div
+    class="ant-col ant-col-4"
+    style="padding: 4px 4px 4px 4px;"
+  >
+    Images
+  </div>
+  <div
+    class="ant-col ant-col-10"
+    style="padding: 4px 4px 4px 4px;"
+  >
+    <div
+      class="ant-list ant-list-split ant-list-grid"
+      data-testid="prop-image-list"
+    >
+      <div
+        class="ant-spin-nested-loading"
+      >
+        <div
+          class="ant-spin-container"
+        >
+          <div
+            class="ant-row"
+            style="margin-left: -8px; margin-right: -8px;"
+          >
+            <div
+              style="width: 20%; max-width: 20%;"
+            >
+              <div
+                class="ant-col"
+                style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+              >
+                <div
+                  class="ant-list-item"
+                >
+                  <div
+                    class="ant-image"
+                  >
+                    <img
+                      class="ant-image-img"
+                      src="https://res.cloudinary.com/seekda-dev/image/upload/w_1920,h_1080,c_fill,f_auto,fl_lossy,q_auto/development/DEMO_JEEVAN/chambre_double_green_fullsize_ecodef-1140x760.jpg"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

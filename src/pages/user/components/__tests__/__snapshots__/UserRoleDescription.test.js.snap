@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserRoleDescription component test create UserRoleDescription components snapshot 1`] = `
+<div>
+  <div>
+    <h3>
+      User Role Description
+    </h3>
+    <div
+      class="ant-table-wrapper"
+    >
+      <div
+        class="ant-spin-nested-loading"
+      >
+        <div
+          class="ant-spin-container"
+        >
+          <div
+            class="ant-table ant-table-fixed-header"
+            data-testid="user-role-list-table"
+          >
+            <div
+              class="ant-table-container"
+            >
+              <div
+                class="ant-table-header"
+                style="overflow: hidden;"
+              >
+                <table
+                  style="table-layout: fixed; visibility: hidden;"
+                >
+                  <colgroup />
+                  <thead
+                    class="ant-table-thead"
+                  >
+                    <tr>
+                      <th
+                        class="ant-table-cell"
+                      >
+                        Role Title
+                      </th>
+                      <th
+                        class="ant-table-cell"
+                      >
+                        Definition
+                      </th>
+                    </tr>
+                  </thead>
+                </table>
+              </div>
+              <div
+                class="ant-table-body"
+                style="overflow-y: scroll; max-height: 340px;"
+              >
+                <table
+                  style="table-layout: fixed;"
+                >
+                  <colgroup>
+                    <col
+                      style="width: 30%; min-width: 30%;"
+                    />
+                    <col
+                      style="width: 70%; min-width: 70%;"
+                    />
+                  </colgroup>
+                  <tbody
+                    class="ant-table-tbody"
+                  >
+                    <tr
+                      aria-hidden="true"
+                      class="ant-table-measure-row"
+                      style="height: 0px; font-size: 0px;"
+                    >
+                      <td
+                        style="padding: 0px; border: 0px; height: 0px;"
+                      >
+                        <div
+                          style="height: 0px; overflow: hidden;"
+                        >
+                           
+                        </div>
+                      </td>
+                      <td
+                        style="padding: 0px; border: 0px; height: 0px;"
+                      >
+                        <div
+                          style="height: 0px; overflow: hidden;"
+                        >
+                           
+                        </div>
+                      </td>
+                    </tr>
+                    <tr
+                      class="ant-table-row ant-table-row-level-0"
+                      data-row-key="1"
+                    >
+                      <td
+                        class="ant-table-cell"
+                      >
+                        <div>
+                          Admin
+                        </div>
+                      </td>
+                      <td
+                        class="ant-table-cell"
+                      >
+                        <div
+                          class="ant-row"
+                        >
+                          Search supply, Create and manage offers, Add users
+                        </div>
+                      </td>
+                    </tr>
+                    <tr
+                      class="ant-table-row ant-table-row-level-0"
+                      data-row-key="2"
+                    >
+                      <td
+                        class="ant-table-cell"
+                      >
+                        <div>
+                          Editor
+                        </div>
+                      </td>
+                      <td
+                        class="ant-table-cell"
+                      >
+                        <div
+                          class="ant-row"
+                        >
+                          Search supply, Create and manage offers
+                        </div>
+                      </td>
+                    </tr>
+                    <tr
+                      class="ant-table-row ant-table-row-level-0"
+                      data-row-key="3"
+                    >
+                      <td
+                        class="ant-table-cell"
+                      >
+                        <div>
+                          Viewer
+                        </div>
+                      </td>
+                      <td
+                        class="ant-table-cell"
+                      >
+                        <div
+                          class="ant-row"
+                        >
+                          Search supply, only view offers
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ViewSettings component test create ViewSettings components snapshot 1`] = `
+<div
+  class="ant-row"
+  style="margin: -4px -4px 4px -4px;"
+>
+  <div
+    class="ant-col ant-col-4 offerid-view-field"
+    style="padding: 4px 4px 4px 4px;"
+  >
+    Internal Name
+  </div>
+  <div
+    class="ant-col ant-col-8"
+    style="padding: 4px 4px 4px 4px;"
+  >
+    <div
+      class="offerid-view-field-name"
+      data-testid="offer-id-display-field"
+    >
+      Cypress Offer - Edit
+    </div>
+  </div>
+</div>
+`;

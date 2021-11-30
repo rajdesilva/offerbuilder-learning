@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`display property component test create display property components snapshot 1`] = `
+<button
+  class="ant-btn ant-btn-primary ant-btn-lg ant-btn-background-ghost"
+  data-testid="property-list-modal"
+  type="button"
+>
+  <span>
+    Properties In Offer
+  </span>
+  <span>
+     
+  </span>
+  <span
+    data-testid="properties-count"
+  >
+    1
+  </span>
+</button>
+`;

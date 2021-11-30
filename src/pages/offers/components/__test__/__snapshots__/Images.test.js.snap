@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Images component test create Images components snapshot 1`] = `
+<div
+  class="ant-row"
+>
+  <div
+    class="ant-col ant-col-4"
+  >
+    Images
+  </div>
+  <div
+    class="ant-col ant-col-20"
+  >
+    <button
+      class="ant-btn ant-btn-primary ant-btn-background-ghost"
+      data-testid="add-or-remove-image-btn"
+      type="button"
+    >
+      Add
+      <span>
+         
+      </span>
+      Images
+    </button>
+  </div>
+</div>
+`;

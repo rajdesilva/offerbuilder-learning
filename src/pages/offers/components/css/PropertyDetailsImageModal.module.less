@@ -1,0 +1,81 @@
+.modalContent {
+  height: 442px;
+  overflow: scroll;
+}
+
+.galleryEmptyView {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.galleryView {
+  margin-top: 20px;
+}
+
+.propertyImage {
+  height: 80px;
+  object-fit: cover;
+}
+
+.marketing-image-hover {
+  cursor: pointer;
+  :global {
+    .ant-btn:hover {
+      color: #000;
+    }
+  }
+}
+
+.propertyImageListPagination {
+  padding-top: 10px;
+  font-size: 12px;
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+
+  :global {
+    .ant-pagination-total-text {
+      position: absolute;
+      left: 0%;
+    }
+
+    .ant-pagination-options {
+      margin-left: 10px;
+      .ant-select.ant-pagination-options-size-changer {
+        display: flex;
+        width: auto;
+        margin-right: 14%;
+        position: absolute;
+        right: 40%;
+      }
+    }
+  }
+  .width-101 {
+    width: 360px;
+  }
+}
+
+.imgCheckbox {
+  float: left;
+  position: absolute;
+  left: 10px;
+  width: calc(100% - 18px);
+  height: 80px;
+  z-index: 1000;
+  padding: 5px;
+}
+
+.selectionCheckbox {
+  float: left;
+  position: absolute;
+  left: 10px;
+  padding: 5px;
+  z-index: 1000;
+}
+
+.imgName {
+  margin-top: 5px;
+  font-size: 10px;
+  height: 15px;
+  overflow: hidden;
+}

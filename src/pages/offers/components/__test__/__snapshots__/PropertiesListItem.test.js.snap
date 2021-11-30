@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PropertiesListItem component test create PropertiesListItem component snapshot 1`] = `
+<div
+  class="ant-list ant-list-split ant-list-grid"
+  data-testid="A1-active-offer-item-properties-list"
+>
+  <div
+    class="ant-spin-nested-loading"
+  >
+    <div
+      class="ant-spin-container"
+    >
+      <div
+        class="ant-row"
+        style="margin-left: -8px; margin-right: -8px;"
+      >
+        <div>
+          <div
+            class="ant-col"
+            style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+          >
+            <div
+              class="ant-list-item"
+            >
+              <div>
+                AJSG Hotel 
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            class="ant-col"
+            style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+          >
+            <div
+              class="ant-list-item"
+            >
+              <div>
+                Bishop's Lodge
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            class="ant-col"
+            style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+          >
+            <div
+              class="ant-list-item"
+            >
+              <div>
+                DEMO PRADEEP3
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            class="ant-col"
+            style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+          >
+            <div
+              class="ant-list-item"
+            >
+              <div>
+                DEMO_SUNIL
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            class="ant-col"
+            style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+          >
+            <div
+              class="ant-list-item"
+            >
+              <div>
+                English B&B Hotel
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            class="ant-col"
+            style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+          >
+            <div
+              class="ant-list-item"
+            >
+              <div>
+                GHULE ROCK MANSION
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            class="ant-col"
+            style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+          >
+            <div
+              class="ant-list-item"
+            >
+              <div>
+                HEERO Merriott STAR
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div
+            class="ant-col"
+            style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+          >
+            <div
+              class="ant-list-item"
+            >
+              <button
+                class="ant-btn ant-btn-link"
+                data-testid="A1-active-offer-item-properties-list-show-more"
+                type="button"
+              >
+                And
+                 
+                10
+                 
+                more
+              </button>
+            </div>
+          </div>
+        </div>
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+      </div>
+    </div>
+  </div>
+</div>
+`;

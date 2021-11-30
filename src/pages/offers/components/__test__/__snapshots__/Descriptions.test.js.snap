@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Descriptions component test For Property, Descriptions components snapshot 1`] = `
+<div
+  class="ant-row"
+  style="margin: -4px -4px 4px -4px;"
+>
+  <div
+    class="ant-col ant-col-4"
+    style="padding: 4px 4px 4px 4px;"
+  >
+    Description
+  </div>
+  <div
+    class="ant-col ant-col-16"
+    style="padding: 4px 4px 4px 4px;"
+  >
+    <div
+      class="ant-row ant-form-item"
+    >
+      <div
+        class="ant-col ant-form-item-control"
+      >
+        <div
+          class="ant-form-item-control-input"
+        >
+          <div
+            class="ant-form-item-control-input-content"
+          >
+            <textarea
+              class="ant-input"
+              data-testid="supplier-description-textarea"
+              id="0_EN_description"
+              maxlength="50000"
+              placeholder="Supplier Did Not Provide Description"
+              rows="6"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

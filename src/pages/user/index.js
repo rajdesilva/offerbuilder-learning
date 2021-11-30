@@ -1,0 +1,1 @@
+export { addNewUser, fetchUserInfo, getUsersList, deleteUser } from "./service";

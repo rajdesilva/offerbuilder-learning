@@ -1,0 +1,1505 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ViewOffer component test create ViewOffer components snapshot 1`] = `
+<div>
+  <div
+    class="wrapper"
+  >
+    <div
+      class="ant-row ant-row-space-between"
+    >
+      <div
+        class="ant-col"
+      >
+        <h2>
+          Offer Details
+        </h2>
+      </div>
+      <div
+        class="ant-col"
+      >
+        <button
+          class="ant-btn ant-btn-primary ant-btn-lg ant-btn-background-ghost cancel-save-view-btn"
+          data-testid="view-close-view-offers-btn"
+          type="button"
+        >
+          Cancel
+        </button>
+        <button
+          class="ant-btn ant-btn-primary ant-btn-lg"
+          data-testid="view-display-edit-offers-btn"
+          type="button"
+        >
+          <a
+            href="/offers/edit/123"
+          >
+            Edit
+          </a>
+        </button>
+      </div>
+    </div>
+    <div
+      class="ant-divider ant-divider-horizontal"
+      role="separator"
+    />
+    <div
+      class="ant-tabs ant-tabs-top"
+    >
+      <div
+        class="ant-tabs-nav"
+        role="tablist"
+      >
+        <div
+          class="ant-tabs-nav-wrap"
+        >
+          <div
+            class="ant-tabs-nav-list"
+            style="transform: translate(0px, 0px);"
+          >
+            <div
+              class="ant-tabs-tab ant-tabs-tab-active"
+            >
+              <div
+                aria-controls="rc-tabs-test-panel-view-settings"
+                aria-selected="true"
+                class="ant-tabs-tab-btn"
+                id="rc-tabs-test-tab-view-settings"
+                role="tab"
+                tabindex="0"
+              >
+                Settings
+              </div>
+            </div>
+            <div
+              class="ant-tabs-tab"
+            >
+              <div
+                aria-controls="rc-tabs-test-panel-view-marketing"
+                aria-selected="false"
+                class="ant-tabs-tab-btn"
+                id="rc-tabs-test-tab-view-marketing"
+                role="tab"
+                tabindex="0"
+              >
+                Marketing
+              </div>
+            </div>
+            <div
+              class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
+            />
+          </div>
+        </div>
+        <div
+          class="ant-tabs-nav-operations ant-tabs-nav-operations-hidden"
+        >
+          <button
+            aria-controls="rc-tabs-test-more-popup"
+            aria-expanded="false"
+            aria-haspopup="listbox"
+            aria-hidden="true"
+            class="ant-tabs-nav-more"
+            id="rc-tabs-test-more"
+            style="visibility: hidden; order: 1;"
+            tabindex="-1"
+            type="button"
+          >
+            <span
+              aria-label="ellipsis"
+              class="anticon anticon-ellipsis"
+              role="img"
+            >
+              <svg
+                aria-hidden="true"
+                data-icon="ellipsis"
+                fill="currentColor"
+                focusable="false"
+                height="1em"
+                viewBox="64 64 896 896"
+                width="1em"
+              >
+                <path
+                  d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"
+                />
+              </svg>
+            </span>
+          </button>
+        </div>
+      </div>
+      <div
+        class="ant-tabs-content-holder"
+      >
+        <div
+          class="ant-tabs-content ant-tabs-content-top"
+        >
+          <div
+            aria-hidden="false"
+            aria-labelledby="rc-tabs-test-tab-view-settings"
+            class="ant-tabs-tabpane ant-tabs-tabpane-active"
+            id="rc-tabs-test-panel-view-settings"
+            role="tabpanel"
+            style=""
+            tabindex="0"
+          >
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Internal Name
+              </div>
+              <div
+                class="ant-col ant-col-8"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                  data-testid="offer-id-display-field"
+                >
+                  Cypress Offer - Edit
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Status
+              </div>
+              <div
+                class="ant-col ant-col-4"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                  data-testid="offer-id-display-field"
+                >
+                  UNPUBLISHED
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Offer ID
+              </div>
+              <div
+                class="ant-col ant-col-6"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                  data-testid="offer-id-display-field"
+                >
+                  123
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Booking dates
+              </div>
+              <div
+                class="ant-col ant-col-5"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                  data-testid="offer-id-display-field"
+                >
+                  --
+                </div>
+              </div>
+              <div
+                class="ant-col ant-col-0"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                  data-testid="offer-id-display-field"
+                >
+                  --    
+                  --
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Travelling Dates
+              </div>
+              <div
+                class="ant-col ant-col-6"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                  data-testid="offer-id-display-field"
+                >
+                  --
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-divider ant-divider-horizontal"
+              role="separator"
+            />
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-5"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <h3>
+                  Travel Product
+                </h3>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Properties
+              </div>
+              <div
+                class="ant-col ant-col-20"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="ant-table-wrapper settings-property-list"
+                >
+                  <div
+                    class="ant-spin-nested-loading"
+                  >
+                    <div
+                      class="ant-spin-container"
+                    >
+                      <div
+                        class="ant-table ant-table-fixed-header"
+                        data-testid="property-list-table"
+                      >
+                        <div
+                          class="ant-table-container"
+                        >
+                          <div
+                            class="ant-table-header"
+                            style="overflow: hidden;"
+                          >
+                            <table
+                              style="table-layout: fixed; visibility: hidden;"
+                            >
+                              <colgroup />
+                              <thead
+                                class="ant-table-thead"
+                              >
+                                <tr>
+                                  <th
+                                    class="ant-table-cell"
+                                  />
+                                  <th
+                                    class="ant-table-cell"
+                                  >
+                                    Properties
+                                  </th>
+                                  <th
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    Location
+                                  </th>
+                                  <th
+                                    class="ant-table-cell"
+                                  >
+                                    Margin
+                                  </th>
+                                  <th
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    Supplier
+                                  </th>
+                                  <th
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    LCN
+                                  </th>
+                                  <th
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    Capital Pool
+                                  </th>
+                                  <th
+                                    class="ant-table-cell"
+                                  />
+                                </tr>
+                              </thead>
+                            </table>
+                          </div>
+                          <div
+                            class="ant-table-body"
+                            style="overflow-y: scroll; max-height: 340px;"
+                          >
+                            <table
+                              style="table-layout: fixed;"
+                            >
+                              <colgroup>
+                                <col
+                                  style="width: 6%; min-width: 6%;"
+                                />
+                                <col
+                                  style="width: 25%; min-width: 25%;"
+                                />
+                                <col
+                                  style="width: 15%; min-width: 15%;"
+                                />
+                                <col
+                                  style="width: 10%; min-width: 10%;"
+                                />
+                                <col
+                                  style="width: 14%; min-width: 14%;"
+                                />
+                                <col
+                                  style="width: 8%; min-width: 8%;"
+                                />
+                                <col
+                                  style="width: 17%; min-width: 17%;"
+                                />
+                                <col
+                                  style="width: 5%; min-width: 5%;"
+                                />
+                              </colgroup>
+                              <tbody
+                                class="ant-table-tbody"
+                              >
+                                <tr
+                                  aria-hidden="true"
+                                  class="ant-table-measure-row"
+                                  style="height: 0px; font-size: 0px;"
+                                >
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr
+                                  data-row-key="DEMO_JEEVAN-0true"
+                                >
+                                  <td
+                                    class="ant-table-cell ant-table-cell-with-append"
+                                  >
+                                    <span
+                                      class="ant-table-row-indent indent-level-0"
+                                      style="padding-left: 0px;"
+                                    />
+                                    <div>
+                                      <span
+                                        aria-label="menu"
+                                        class="anticon anticon-menu"
+                                        role="img"
+                                      >
+                                        <svg
+                                          aria-hidden="true"
+                                          data-icon="menu"
+                                          fill="currentColor"
+                                          focusable="false"
+                                          height="1em"
+                                          viewBox="64 64 896 896"
+                                          width="1em"
+                                        >
+                                          <path
+                                            d="M904 160H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0 624H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0-312H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8z"
+                                          />
+                                        </svg>
+                                      </span>
+                                    </div>
+                                  </td>
+                                  <td
+                                    class="ant-table-cell"
+                                  >
+                                    <div>
+                                      AJSG Hotel
+                                    </div>
+                                  </td>
+                                  <td
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    <div
+                                      class="ant-row"
+                                    >
+                                      Vienna
+                                      , 
+                                      Austria
+                                        
+                                    </div>
+                                  </td>
+                                  <td
+                                    class="ant-table-cell"
+                                  >
+                                    <div
+                                      class="ant-row"
+                                    >
+                                      11 %
+                                    </div>
+                                  </td>
+                                  <td
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    <div
+                                      class="ant-row"
+                                    >
+                                      NTP
+                                      -
+                                      NEMO_CH_06
+                                    </div>
+                                  </td>
+                                  <td
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    <div
+                                      class="ant-row"
+                                    />
+                                  </td>
+                                  <td
+                                    class="ant-table-cell settings-property-list-item"
+                                  />
+                                  <td
+                                    class="ant-table-cell"
+                                  >
+                                    
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-divider ant-divider-horizontal"
+              role="separator"
+            />
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Target
+              </div>
+              <div
+                class="ant-col ant-col-20"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="ant-table-wrapper settings-property-list"
+                >
+                  <div
+                    class="ant-spin-nested-loading"
+                  >
+                    <div
+                      class="ant-spin-container"
+                    >
+                      <div
+                        class="ant-table ant-table-fixed-header"
+                        data-testid="property-list-table"
+                      >
+                        <div
+                          class="ant-table-container"
+                        >
+                          <div
+                            class="ant-table-header"
+                            style="overflow: hidden;"
+                          >
+                            <table
+                              style="table-layout: fixed; visibility: hidden;"
+                            >
+                              <colgroup />
+                              <thead
+                                class="ant-table-thead"
+                              >
+                                <tr>
+                                  <th
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    Supplier
+                                  </th>
+                                  <th
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    Channels
+                                  </th>
+                                </tr>
+                              </thead>
+                            </table>
+                          </div>
+                          <div
+                            class="ant-table-body"
+                            style="overflow-y: scroll; max-height: 340px;"
+                          >
+                            <table
+                              style="table-layout: fixed;"
+                            >
+                              <colgroup>
+                                <col
+                                  style="width: 20%; min-width: 20%;"
+                                />
+                                <col
+                                  style="width: 35%; min-width: 35%;"
+                                />
+                              </colgroup>
+                              <tbody
+                                class="ant-table-tbody"
+                              >
+                                <tr
+                                  aria-hidden="true"
+                                  class="ant-table-measure-row"
+                                  style="height: 0px; font-size: 0px;"
+                                >
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                  <td
+                                    style="padding: 0px; border: 0px; height: 0px;"
+                                  >
+                                    <div
+                                      style="height: 0px; overflow: hidden;"
+                                    >
+                                       
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr
+                                  class="ant-table-row ant-table-row-level-0"
+                                >
+                                  <td
+                                    class="ant-table-cell settings-property-list-item ant-table-cell-with-append"
+                                  >
+                                    <span
+                                      class="ant-table-row-indent indent-level-0"
+                                      style="padding-left: 0px;"
+                                    />
+                                    NTP
+                                  </td>
+                                  <td
+                                    class="ant-table-cell settings-property-list-item"
+                                  >
+                                    DEMO_OFFERBUILDER
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-divider ant-divider-horizontal"
+              role="separator"
+            />
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-6"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <h3>
+                  Deep Link Settings
+                </h3>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Destination
+              </div>
+              <div
+                class="ant-col ant-col-6"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                >
+                  --
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Hotel
+              </div>
+              <div
+                class="ant-col ant-col-6"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <label
+                  class="ant-checkbox-wrapper ant-checkbox-wrapper-checked ant-checkbox-wrapper-disabled"
+                >
+                  <span
+                    class="ant-checkbox ant-checkbox-checked ant-checkbox-disabled"
+                  >
+                    <input
+                      checked=""
+                      class="ant-checkbox-input"
+                      data-testid="include-all-properties-settings"
+                      disabled=""
+                      type="checkbox"
+                      value=""
+                    />
+                    <span
+                      class="ant-checkbox-inner"
+                    />
+                  </span>
+                </label>
+                <span>
+                   
+                  Include All Selected Properties
+                </span>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Guests
+              </div>
+              <div
+                class="ant-col ant-col-6"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                >
+                  1
+                   
+                  nemo.adult
+                   
+                  0
+                   
+                  Children
+                   
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Check In
+              </div>
+              <div
+                class="ant-col ant-col-10"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                >
+                  Dynamic
+                   (
+                  0
+                   
+                  nemo.day
+                   
+                  from date of search
+                  )
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4 offerid-view-field"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Length Of Stay
+              </div>
+              <div
+                class="ant-col ant-col-6"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="offerid-view-field-name"
+                >
+                  1
+                   
+                  nemo.night
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            aria-hidden="true"
+            aria-labelledby="rc-tabs-test-tab-view-marketing"
+            class="ant-tabs-tabpane"
+            id="rc-tabs-test-panel-view-marketing"
+            role="tabpanel"
+            style="display: none;"
+            tabindex="-1"
+          >
+            <fieldset
+              disabled=""
+            >
+              <form
+                class="ant-form ant-form-horizontal custom-form"
+                data-testid="view-marketing-description-form"
+                id="offerInfo"
+              >
+                <div
+                  class="ant-row ant-row-space-between"
+                >
+                  <div
+                    class="ant-col"
+                  >
+                    <h3>
+                      Offer marketing assets
+                    </h3>
+                  </div>
+                </div>
+                <div
+                  class="ant-tabs ant-tabs-top"
+                  data-testid="description-tab"
+                >
+                  <div
+                    class="ant-tabs-nav"
+                    role="tablist"
+                  >
+                    <div
+                      class="ant-tabs-nav-wrap"
+                    >
+                      <div
+                        class="ant-tabs-nav-list"
+                        style="transform: translate(0px, 0px);"
+                      >
+                        <div
+                          class="ant-tabs-tab ant-tabs-tab-active"
+                        >
+                          <div
+                            aria-controls="rc-tabs-test-panel-EN"
+                            aria-selected="true"
+                            class="ant-tabs-tab-btn"
+                            id="rc-tabs-test-tab-EN"
+                            role="tab"
+                            tabindex="0"
+                          >
+                            English
+                          </div>
+                        </div>
+                        <div
+                          class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
+                        />
+                      </div>
+                    </div>
+                    <div
+                      class="ant-tabs-nav-operations ant-tabs-nav-operations-hidden"
+                    >
+                      <button
+                        aria-controls="rc-tabs-test-more-popup"
+                        aria-expanded="false"
+                        aria-haspopup="listbox"
+                        aria-hidden="true"
+                        class="ant-tabs-nav-more"
+                        id="rc-tabs-test-more"
+                        style="visibility: hidden; order: 1;"
+                        tabindex="-1"
+                        type="button"
+                      >
+                        <span
+                          aria-label="ellipsis"
+                          class="anticon anticon-ellipsis"
+                          role="img"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            data-icon="ellipsis"
+                            fill="currentColor"
+                            focusable="false"
+                            height="1em"
+                            viewBox="64 64 896 896"
+                            width="1em"
+                          >
+                            <path
+                              d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"
+                            />
+                          </svg>
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                  <div
+                    class="ant-tabs-content-holder"
+                  >
+                    <div
+                      class="ant-tabs-content ant-tabs-content-top"
+                    >
+                      <div
+                        aria-hidden="false"
+                        aria-labelledby="rc-tabs-test-tab-EN"
+                        class="ant-tabs-tabpane ant-tabs-tabpane-active"
+                        id="rc-tabs-test-panel-EN"
+                        role="tabpanel"
+                        tabindex="0"
+                      >
+                        <div
+                          class="ant-row"
+                          style="margin: -4px -4px 4px -4px;"
+                        >
+                          <div
+                            class="ant-col ant-col-4"
+                            style="padding: 4px 4px 4px 4px;"
+                          >
+                            Title For Customers
+                          </div>
+                          <div
+                            class="ant-col ant-col-8"
+                            style="padding: 4px 4px 4px 4px;"
+                          >
+                            <div
+                              class="ant-row ant-form-item"
+                            >
+                              <div
+                                class="ant-col ant-form-item-control"
+                              >
+                                <div
+                                  class="ant-form-item-control-input"
+                                >
+                                  <div
+                                    class="ant-form-item-control-input-content"
+                                  >
+                                    <textarea
+                                      class="ant-input ant-input-borderless"
+                                      data-testid="title-for-customers-offer"
+                                      id="offerInfo_EN_title"
+                                      rows="1"
+                                    />
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-row"
+                          style="margin: -4px -4px 4px -4px;"
+                        >
+                          <div
+                            class="ant-col ant-col-4"
+                            style="padding: 4px 4px 4px 4px;"
+                          >
+                            Description
+                          </div>
+                          <div
+                            class="ant-col ant-col-16"
+                            style="padding: 4px 4px 4px 4px;"
+                          >
+                            <div
+                              class="ant-row ant-form-item"
+                            >
+                              <div
+                                class="ant-col ant-form-item-control"
+                              >
+                                <div
+                                  class="ant-form-item-control-input"
+                                >
+                                  <div
+                                    class="ant-form-item-control-input-content"
+                                  >
+                                    <textarea
+                                      class="ant-input ant-input-borderless"
+                                      data-testid="offer-supplier-description-textarea"
+                                      id="offerInfo_EN_description"
+                                      rows="6"
+                                    />
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-row"
+                          style="margin: -4px -4px 4px -4px;"
+                        >
+                          <div
+                            class="ant-col ant-col-4"
+                            style="padding: 4px 4px 4px 4px;"
+                          >
+                            Short Description
+                          </div>
+                          <div
+                            class="ant-col ant-col-8"
+                            style="padding: 4px 4px 4px 4px;"
+                          >
+                            <div
+                              class="ant-row ant-form-item"
+                            >
+                              <div
+                                class="ant-col ant-form-item-control"
+                              >
+                                <div
+                                  class="ant-form-item-control-input"
+                                >
+                                  <div
+                                    class="ant-form-item-control-input-content"
+                                  >
+                                    <textarea
+                                      class="ant-input ant-input-borderless"
+                                      data-testid="offer-supplier-short-desc-input"
+                                      id="offerInfo_EN_shortDescription"
+                                      rows="1"
+                                    />
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-row"
+                          style="margin: -4px -4px 4px -4px;"
+                        >
+                          <div
+                            class="ant-col ant-col-4"
+                            style="padding: 4px 4px 4px 4px;"
+                          >
+                            Terms And Conditions
+                          </div>
+                          <div
+                            class="ant-col ant-col-8"
+                            style="padding: 4px 4px 4px 4px;"
+                          >
+                            <div
+                              class="ant-row ant-form-item"
+                            >
+                              <div
+                                class="ant-col ant-form-item-control"
+                              >
+                                <div
+                                  class="ant-form-item-control-input"
+                                >
+                                  <div
+                                    class="ant-form-item-control-input-content"
+                                  >
+                                    <textarea
+                                      class="ant-input ant-input-borderless"
+                                      data-testid="offer-terms-n-conditions"
+                                      id="offerInfo_EN_termsAndConditions"
+                                      rows="3"
+                                    />
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </fieldset>
+            <div
+              class="ant-row"
+              style="margin: -4px -4px 4px -4px;"
+            >
+              <div
+                class="ant-col ant-col-4"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                Images
+              </div>
+              <div
+                class="ant-col ant-col-10"
+                style="padding: 4px 4px 4px 4px;"
+              >
+                <div
+                  class="ant-list ant-list-split ant-list-grid"
+                  data-testid="offer-image-list"
+                >
+                  <div
+                    class="ant-spin-nested-loading"
+                  >
+                    <div
+                      class="ant-spin-container"
+                    >
+                      <div
+                        class="ant-row"
+                        style="margin-left: -8px; margin-right: -8px;"
+                      >
+                        <div
+                          style="width: 20%; max-width: 20%;"
+                        >
+                          <div
+                            class="ant-col"
+                            style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+                          >
+                            <div
+                              class="ant-list-item"
+                            >
+                              <div
+                                class="ant-image"
+                              >
+                                <img
+                                  class="ant-image-img"
+                                />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="ant-collapse ant-collapse-icon-position-left"
+            >
+              <div
+                class="ant-collapse-item ant-collapse-item-active"
+              >
+                <div
+                  aria-expanded="true"
+                  class="ant-collapse-header"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span
+                    aria-label="right"
+                    class="anticon anticon-right ant-collapse-arrow"
+                    role="img"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      data-icon="right"
+                      fill="currentColor"
+                      focusable="false"
+                      height="1em"
+                      style="transform: rotate(90deg);"
+                      viewBox="64 64 896 896"
+                      width="1em"
+                    >
+                      <path
+                        d="M765.7 486.8L314.9 134.7A7.97 7.97 0 00302 141v77.3c0 4.9 2.3 9.6 6.1 12.6l360 281.1-360 281.1c-3.9 3-6.1 7.7-6.1 12.6V883c0 6.7 7.7 10.4 12.9 6.3l450.8-352.1a31.96 31.96 0 000-50.4z"
+                      />
+                    </svg>
+                  </span>
+                  AJSG Hotel
+                </div>
+                <div
+                  class="ant-collapse-content ant-collapse-content-active"
+                >
+                  <div
+                    class="ant-collapse-content-box"
+                  >
+                    <fieldset
+                      disabled=""
+                    >
+                      <form
+                        class="ant-form ant-form-horizontal"
+                        id="DEMO_JEEVAN,ntp,NEMO_CH_06,propertyDescription"
+                      >
+                        <div
+                          class="ant-tabs ant-tabs-top"
+                          data-testid="description-tab"
+                        >
+                          <div
+                            class="ant-tabs-nav"
+                            role="tablist"
+                          >
+                            <div
+                              class="ant-tabs-nav-wrap"
+                            >
+                              <div
+                                class="ant-tabs-nav-list"
+                                style="transform: translate(0px, 0px);"
+                              >
+                                <div
+                                  class="ant-tabs-tab ant-tabs-tab-active"
+                                >
+                                  <div
+                                    aria-controls="rc-tabs-test-panel-EN"
+                                    aria-selected="true"
+                                    class="ant-tabs-tab-btn"
+                                    id="rc-tabs-test-tab-EN"
+                                    role="tab"
+                                    tabindex="0"
+                                  >
+                                    English
+                                  </div>
+                                </div>
+                                <div
+                                  class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
+                                />
+                              </div>
+                            </div>
+                            <div
+                              class="ant-tabs-nav-operations ant-tabs-nav-operations-hidden"
+                            >
+                              <button
+                                aria-controls="rc-tabs-test-more-popup"
+                                aria-expanded="false"
+                                aria-haspopup="listbox"
+                                aria-hidden="true"
+                                class="ant-tabs-nav-more"
+                                id="rc-tabs-test-more"
+                                style="visibility: hidden; order: 1;"
+                                tabindex="-1"
+                                type="button"
+                              >
+                                <span
+                                  aria-label="ellipsis"
+                                  class="anticon anticon-ellipsis"
+                                  role="img"
+                                >
+                                  <svg
+                                    aria-hidden="true"
+                                    data-icon="ellipsis"
+                                    fill="currentColor"
+                                    focusable="false"
+                                    height="1em"
+                                    viewBox="64 64 896 896"
+                                    width="1em"
+                                  >
+                                    <path
+                                      d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"
+                                    />
+                                  </svg>
+                                </span>
+                              </button>
+                            </div>
+                          </div>
+                          <div
+                            class="ant-tabs-content-holder"
+                          >
+                            <div
+                              class="ant-tabs-content ant-tabs-content-top"
+                            >
+                              <div
+                                aria-hidden="false"
+                                aria-labelledby="rc-tabs-test-tab-EN"
+                                class="ant-tabs-tabpane ant-tabs-tabpane-active"
+                                id="rc-tabs-test-panel-EN"
+                                role="tabpanel"
+                                tabindex="0"
+                              >
+                                <div
+                                  class="ant-row"
+                                  style="margin: -4px -4px 4px -4px;"
+                                >
+                                  <div
+                                    class="ant-col ant-col-4"
+                                    style="padding: 4px 4px 4px 4px;"
+                                  >
+                                    Description
+                                  </div>
+                                  <div
+                                    class="ant-col ant-col-16"
+                                    style="padding: 4px 4px 4px 4px;"
+                                  >
+                                    <div
+                                      class="ant-row ant-form-item"
+                                    >
+                                      <div
+                                        class="ant-col ant-form-item-control"
+                                      >
+                                        <div
+                                          class="ant-form-item-control-input"
+                                        >
+                                          <div
+                                            class="ant-form-item-control-input-content"
+                                          >
+                                            <textarea
+                                              class="ant-input ant-input-borderless"
+                                              data-testid="prop-supplier-description-textarea"
+                                              id="DEMO_JEEVAN,ntp,NEMO_CH_06,propertyDescription_0_EN_description"
+                                              rows="6"
+                                            />
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  class="ant-row"
+                                  style="margin: -4px -4px 4px -4px;"
+                                >
+                                  <div
+                                    class="ant-col ant-col-4"
+                                    style="padding: 4px 4px 4px 4px;"
+                                  >
+                                    Short Description
+                                  </div>
+                                  <div
+                                    class="ant-col ant-col-8"
+                                    style="padding: 4px 4px 4px 4px;"
+                                  >
+                                    <div
+                                      class="ant-row ant-form-item"
+                                    >
+                                      <div
+                                        class="ant-col ant-form-item-control"
+                                      >
+                                        <div
+                                          class="ant-form-item-control-input"
+                                        >
+                                          <div
+                                            class="ant-form-item-control-input-content"
+                                          >
+                                            <textarea
+                                              class="ant-input ant-input-borderless"
+                                              data-testid="prop-supplier-short-desc-input"
+                                              id="DEMO_JEEVAN,ntp,NEMO_CH_06,propertyDescription_0_EN_shortDescription"
+                                              rows="1"
+                                            />
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  class="ant-divider ant-divider-horizontal"
+                                  role="separator"
+                                />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="ant-row ant-form-item"
+                        >
+                          <div
+                            class="ant-col ant-form-item-control"
+                          >
+                            <div
+                              class="ant-form-item-control-input"
+                            >
+                              <div
+                                class="ant-form-item-control-input-content"
+                              >
+                                <div
+                                  class="ant-row"
+                                  style="margin: -4px -4px 4px -4px;"
+                                >
+                                  <div
+                                    class="ant-col ant-col-4"
+                                    style="padding: 4px 4px 4px 4px;"
+                                  >
+                                    Images
+                                  </div>
+                                  <div
+                                    class="ant-col ant-col-10"
+                                    style="padding: 4px 4px 4px 4px;"
+                                  >
+                                    <div
+                                      class="ant-list ant-list-split ant-list-grid"
+                                      data-testid="prop-image-list"
+                                    >
+                                      <div
+                                        class="ant-spin-nested-loading"
+                                      >
+                                        <div
+                                          class="ant-spin-container"
+                                        >
+                                          <div
+                                            class="ant-row"
+                                            style="margin-left: -8px; margin-right: -8px;"
+                                          >
+                                            <div
+                                              style="width: 20%; max-width: 20%;"
+                                            >
+                                              <div
+                                                class="ant-col"
+                                                style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+                                              >
+                                                <div
+                                                  class="ant-list-item"
+                                                >
+                                                  <div
+                                                    class="ant-image"
+                                                  >
+                                                    <img
+                                                      class="ant-image-img"
+                                                      src="https://res.cloudinary.com/seekda-dev/image/upload/w_1920,h_1080,c_fill,f_auto,fl_lossy,q_auto/development/DEMO_JEEVAN/chambre_double_green_fullsize_ecodef-1140x760.jpg"
+                                                    />
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div
+                                              style="width: 20%; max-width: 20%;"
+                                            >
+                                              <div
+                                                class="ant-col"
+                                                style="padding-left: 8px; padding-right: 8px; flex: 1 1 auto;"
+                                              >
+                                                <div
+                                                  class="ant-list-item"
+                                                >
+                                                  <div
+                                                    class="ant-image"
+                                                  >
+                                                    <img
+                                                      class="ant-image-img"
+                                                      src="https://res.cloudinary.com/seekda-dev/image/upload/w_1920,h_1080,c_fill,f_auto,fl_lossy,q_auto/development/DEMO_JEEVAN/DSC00137-ch_simple2-e1511971588521.jpg"
+                                                    />
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </form>
+                    </fieldset>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
