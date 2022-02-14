@@ -1,0 +1,269 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media only screen and (min-width: 1300px) {
+  .date-picker {
+    width: 170px;
+  }
+}
+
+.content {
+  background: white;
+  width: 1081px;
+  //text-align: center;
+  margin: auto;
+  margin-top: 24px;
+  margin-bottom: 10%;
+}
+
+:global {
+
+  .top-margin {
+    margin-top: -15px !important;
+    margin-bottom: 10px !important;
+  }
+  .filter-ic {
+    color: #8c8c8c;
+  }
+
+  .settings-property-list-item {
+    font-size: 11px;
+  }
+
+  .settings-property-list {
+    :global {
+      .ant-table-tbody > tr > td:first-child {
+        padding-right: 0;
+      }
+
+      .ant-table-thead > tr > th {
+        font-size: 14px;
+      }
+    }
+  }
+
+  .offerid-view-field-name {
+    margin: 10px 0px;
+  }
+
+  .offerid-view-field {
+    font-weight: 600;
+    text-align: end;
+    padding-right: 40px !important;
+    margin: 10px 0px;
+  }
+
+  .storefront-minus {
+    font-size: 24px;
+    color: #1890ff;
+    margin-top: 7px;
+  }
+
+  .min-capital-pool {
+    width: 180px;
+  }
+
+  .custom-form {
+    padding-top: 20px;
+    font-size: 14px;
+
+    .col1-text {
+      text-align: end;
+      padding-right: 37px !important;
+    }
+  }
+
+  .offer-list-pagination {
+    padding-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+
+    :global {
+      .ant-pagination-total-text {
+        position: absolute;
+        right: 48%;
+        width: 300px;
+      }
+
+      .ant-pagination-options {
+        margin-left: 0;
+        .ant-select.ant-pagination-options-size-changer {
+          display: flex;
+          background-color: aqua;
+          width: auto;
+          margin-right: 14%;
+          position: absolute;
+          right: 27%;
+        }
+      }
+    }
+  }
+
+  .cancel-save-view-btn {
+    margin-right: 10px;
+  }
+
+  .wrapper {
+    min-height: 70vh;
+  }
+
+  .image-list-modal {
+    :global {
+      .ant-modal-content {
+        height: 640px;
+      }
+    }
+  }
+
+  .modal-img-list-pagination {
+    padding-top: 10px;
+    font-size: 12px;
+    display: flex;
+    width: 100%;
+    // margin-left: 16px;
+    justify-content: flex-end;
+
+    :global {
+      .ant-pagination-total-text {
+        position: absolute;
+        left: 0%;
+      }
+      .ant-pagination-options {
+        margin-left: -5px;
+        .ant-select.ant-pagination-options-size-changer {
+          display: flex;
+          width: auto;
+          margin-right: 14%;
+          position: absolute;
+          right: 40%;
+        }
+      }
+    }
+    .display-total-row {
+      width: 360px;
+    }
+  }
+
+  .carousel-image-modal {
+    overflow: auto;
+
+    .close-carousel-icon {
+      font-size: 25px !important;
+    }
+
+    .gallery-parent {
+      display: flex;
+      justify-content: center;
+
+      .chekbox-row {
+        margin-top: 10px !important;
+        .img-name {
+          padding-top: 8px;
+          color: white;
+          height: 18px;
+        }
+        .chekbox {
+          margin-right: 10px;
+        }
+      }
+    }
+
+    :global {
+      .ant-modal-content {
+        background-color: rgba(120, 120, 120, 0.79);
+      }
+    }
+
+    .image-gallery-left-nav {
+      position: fixed;
+      top: 45%;
+      left: 20px;
+    }
+    .image-gallery-right-nav {
+      position: fixed;
+      top: 45%;
+      right: 40px;
+    }
+  }
+
+  .carousel-btn {
+    font-size: 34px !important;
+  }
+
+  .img-carousel {
+    object-fit: contain;
+    height: 85vh;
+    width: 90vw;
+  }
+
+  .remove-img-icon {
+    font-size: 15px !important;
+    border-radius: 2px;
+    color: #595959;
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+
+  .remove-image-btn {
+    height: 16px;
+    width: 16px;
+    padding: 5px;
+    position: absolute;
+    right: 16px;
+    top: -6px;
+    border-radius: 2px;
+  }
+
+  .list-image {
+    height: 75px;
+    width: 75px;
+    object-fit: cover;
+  }
+
+  .ant-layout {
+    background: white;
+  }
+
+  .ant-steps-item-title {
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .ant-steps-item-icon {
+    width: 24px;
+    height: 24px;
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .ant-btn {
+    border-radius: 0 !important;
+  }
+
+  .ant-form-item {
+    margin-bottom: 8px;
+  }
+
+  .ant-menu,
+  .anticon,
+  .ant-menu-item {
+    font-size: 16px;
+  }
+
+  .ant-divider-horizontal {
+    margin: 10px 0;
+  }
+
+  .ant-menu-horizontal {
+    line-height: 51px;
+  }
+
+  .ant-image-preview-img-wrapper {
+    padding: 75px;
+  }
+}

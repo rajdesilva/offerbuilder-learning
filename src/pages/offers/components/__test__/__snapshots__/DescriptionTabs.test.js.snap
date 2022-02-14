@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DescriptionTabs component test create DescriptionTabs components snapshot 1`] = `
+<div
+  class="ant-tabs ant-tabs-top"
+  data-testid="description-tab"
+>
+  <div
+    class="ant-tabs-nav"
+    role="tablist"
+  >
+    <div
+      class="ant-tabs-nav-wrap"
+    >
+      <div
+        class="ant-tabs-nav-list"
+        style="transform: translate(0px, 0px);"
+      >
+        <div
+          class="ant-tabs-tab ant-tabs-tab-active"
+        >
+          <div
+            aria-controls="rc-tabs-test-panel-EN"
+            aria-selected="true"
+            class="ant-tabs-tab-btn"
+            id="rc-tabs-test-tab-EN"
+            role="tab"
+            tabindex="0"
+          >
+            English
+          </div>
+        </div>
+        <div
+          class="ant-tabs-ink-bar ant-tabs-ink-bar-animated"
+        />
+      </div>
+    </div>
+    <div
+      class="ant-tabs-nav-operations ant-tabs-nav-operations-hidden"
+    >
+      <button
+        aria-controls="rc-tabs-test-more-popup"
+        aria-expanded="false"
+        aria-haspopup="listbox"
+        aria-hidden="true"
+        class="ant-tabs-nav-more"
+        id="rc-tabs-test-more"
+        style="visibility: hidden; order: 1;"
+        tabindex="-1"
+        type="button"
+      >
+        <span
+          aria-label="ellipsis"
+          class="anticon anticon-ellipsis"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="ellipsis"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"
+            />
+          </svg>
+        </span>
+      </button>
+    </div>
+  </div>
+  <div
+    class="ant-tabs-content-holder"
+  >
+    <div
+      class="ant-tabs-content ant-tabs-content-top"
+    >
+      <div
+        aria-hidden="false"
+        aria-labelledby="rc-tabs-test-tab-EN"
+        class="ant-tabs-tabpane ant-tabs-tabpane-active"
+        id="rc-tabs-test-panel-EN"
+        role="tabpanel"
+        tabindex="0"
+      >
+        <div
+          class="ant-row"
+          style="margin: -4px -4px 4px -4px;"
+        >
+          <div
+            class="ant-col ant-col-4"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            Title For Customers
+          </div>
+          <div
+            class="ant-col ant-col-8"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            <div
+              class="ant-row ant-form-item"
+            >
+              <div
+                class="ant-col ant-form-item-control"
+              >
+                <div
+                  class="ant-form-item-control-input"
+                >
+                  <div
+                    class="ant-form-item-control-input-content"
+                  >
+                    <input
+                      class="ant-input"
+                      data-testid="EN-offer-title"
+                      id="EN_title"
+                      maxlength="5000"
+                      rows="1"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-row"
+          style="margin: -4px -4px 4px -4px;"
+        >
+          <div
+            class="ant-col ant-col-4"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            Description
+          </div>
+          <div
+            class="ant-col ant-col-16"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            <div
+              class="ant-row ant-form-item"
+            >
+              <div
+                class="ant-col ant-form-item-control"
+              >
+                <div
+                  class="ant-form-item-control-input"
+                >
+                  <div
+                    class="ant-form-item-control-input-content"
+                  >
+                    <textarea
+                      class="ant-input"
+                      data-testid="supplier-description-textarea"
+                      id="EN_description"
+                      maxlength="50000"
+                      placeholder=""
+                      rows="6"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-row"
+          style="margin: -4px -4px 4px -4px;"
+        >
+          <div
+            class="ant-col ant-col-4"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            Short Description
+          </div>
+          <div
+            class="ant-col ant-col-8"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            <div
+              class="ant-row ant-form-item"
+            >
+              <div
+                class="ant-col ant-form-item-control"
+              >
+                <div
+                  class="ant-form-item-control-input"
+                >
+                  <div
+                    class="ant-form-item-control-input-content"
+                  >
+                    <input
+                      class="ant-input"
+                      data-testid="supplier-desc-input"
+                      id="EN_shortDescription"
+                      maxlength="5000"
+                      placeholder=""
+                      rows="1"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-row"
+          style="margin: -4px -4px 4px -4px;"
+        >
+          <div
+            class="ant-col ant-col-4"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            Terms And Conditions
+          </div>
+          <div
+            class="ant-col ant-col-8"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            <div
+              class="ant-row ant-form-item"
+            >
+              <div
+                class="ant-col ant-form-item-control"
+              >
+                <div
+                  class="ant-form-item-control-input"
+                >
+                  <div
+                    class="ant-form-item-control-input-content"
+                  >
+                    <textarea
+                      class="ant-input"
+                      id="EN_termsAndConditions"
+                      maxlength="10000"
+                      rows="3"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

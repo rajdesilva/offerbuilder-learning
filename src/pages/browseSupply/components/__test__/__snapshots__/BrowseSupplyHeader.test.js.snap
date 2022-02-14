@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BrowseSupplyHeader component test create BrowseSupplyHeader components snapshot 1`] = `
+<div
+  class="ant-row ant-row-space-between"
+>
+  <div
+    class="ant-col"
+  >
+    <h2>
+      Browse Supply
+    </h2>
+  </div>
+</div>
+`;

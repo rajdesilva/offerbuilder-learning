@@ -1,0 +1,367 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddUser component test create AddUser components snapshot 1`] = `
+<div>
+  <div
+    class="ant-row ant-row-space-between"
+  >
+    <div
+      class="ant-col"
+    >
+      <h2>
+        Add User
+      </h2>
+    </div>
+    <div
+      class="ant-col"
+    >
+      <button
+        class="ant-btn ant-btn-primary ant-btn-lg ant-btn-background-ghost"
+        data-testid="user-management-add-user-cancel-btn"
+        type="button"
+      >
+        Cancel
+      </button>
+      <button
+        class="ant-btn ant-btn-primary ant-btn-lg"
+        data-testid="user-management-add-user-create-btn"
+        type="button"
+      >
+        Create
+      </button>
+    </div>
+  </div>
+  <div
+    class="ant-divider ant-divider-horizontal"
+    role="separator"
+  />
+  <div
+    class="ant-spin-nested-loading"
+    data-testid="loader"
+  >
+    <div
+      class="ant-spin-container"
+    >
+      <form
+        class="ant-form ant-form-horizontal"
+        data-testid="add-user-management-form"
+      >
+        <div
+          class="ant-row"
+          style="margin: -4px -4px 4px -4px;"
+        >
+          <div
+            class="ant-col ant-col-6"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            Name
+          </div>
+          <div
+            class="ant-col ant-col-6"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            <div
+              class="ant-row ant-form-item"
+              data-testid="add-user-name-form-item"
+            >
+              <div
+                class="ant-col ant-form-item-control"
+              >
+                <div
+                  class="ant-form-item-control-input"
+                >
+                  <div
+                    class="ant-form-item-control-input-content"
+                  >
+                    <input
+                      class="ant-input"
+                      data-testid="add-user-name"
+                      id="name"
+                      maxlength="30"
+                      placeholder="User Name"
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-row"
+          style="margin: -4px -4px 4px -4px;"
+        >
+          <div
+            class="ant-col ant-col-6"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            Email
+          </div>
+          <div
+            class="ant-col ant-col-6"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            <div
+              class="ant-row ant-form-item"
+              data-testid="add-user-email-form-item"
+            >
+              <div
+                class="ant-col ant-form-item-control"
+              >
+                <div
+                  class="ant-form-item-control-input"
+                >
+                  <div
+                    class="ant-form-item-control-input-content"
+                  >
+                    <input
+                      class="ant-input"
+                      data-testid="add-user-email"
+                      id="email"
+                      placeholder="Email Address"
+                      type="email"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-row"
+          style="margin: -4px -4px 4px -4px;"
+        >
+          <div
+            class="ant-col ant-col-6"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            User Role
+          </div>
+          <div
+            class="ant-col ant-col-6"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            <div
+              class="ant-row ant-form-item"
+              data-testid="add-user-role-form-item"
+            >
+              <div
+                class="ant-col ant-form-item-control"
+              >
+                <div
+                  class="ant-form-item-control-input"
+                >
+                  <div
+                    class="ant-form-item-control-input-content"
+                  >
+                    <div
+                      class="ant-radio-group ant-radio-group-outline"
+                      id="userRole"
+                    >
+                      <label
+                        class="ant-radio-wrapper ant-radio-wrapper-checked"
+                      >
+                        <span
+                          class="ant-radio ant-radio-checked"
+                        >
+                          <input
+                            checked=""
+                            class="ant-radio-input"
+                            data-testid="admin-radio-btn"
+                            type="radio"
+                            value="offerbuilder.admin"
+                          />
+                          <span
+                            class="ant-radio-inner"
+                          />
+                        </span>
+                        <span>
+                          <span>
+                            <b>
+                              Admin
+                            </b>
+                            Search supply, Create and manage offers, Add users
+                          </span>
+                        </span>
+                      </label>
+                      <label
+                        class="ant-radio-wrapper"
+                      >
+                        <span
+                          class="ant-radio"
+                        >
+                          <input
+                            class="ant-radio-input"
+                            data-testid="editor-radio-btn"
+                            type="radio"
+                            value="offerbuilder.editor"
+                          />
+                          <span
+                            class="ant-radio-inner"
+                          />
+                        </span>
+                        <span>
+                          <span>
+                            <b>
+                              Editor
+                            </b>
+                            Search supply, Create and manage offers
+                          </span>
+                        </span>
+                      </label>
+                      <label
+                        class="ant-radio-wrapper"
+                      >
+                        <span
+                          class="ant-radio"
+                        >
+                          <input
+                            class="ant-radio-input"
+                            data-testid="viewer-radio-btn"
+                            type="radio"
+                            value="offerbuilder.viewer"
+                          />
+                          <span
+                            class="ant-radio-inner"
+                          />
+                        </span>
+                        <span>
+                          <span>
+                            <b>
+                              Viewer
+                            </b>
+                            Search supply, only view offers
+                          </span>
+                        </span>
+                      </label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-row"
+          style="margin: -4px -4px 4px -4px;"
+        >
+          <div
+            class="ant-col ant-col-6"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            Send An Invite Email
+          </div>
+          <div
+            class="ant-col ant-col-6"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            <div
+              class="ant-row ant-form-item"
+              data-testid="add-user-send-invite-form-item"
+            >
+              <div
+                class="ant-col ant-form-item-control"
+              >
+                <div
+                  class="ant-form-item-control-input"
+                >
+                  <div
+                    class="ant-form-item-control-input-content"
+                  >
+                    <button
+                      aria-checked="true"
+                      class="ant-switch ant-switch-checked"
+                      data-testid="add-user-send-invite-switch"
+                      id="inviteEmail"
+                      role="switch"
+                      type="button"
+                    >
+                      <div
+                        class="ant-switch-handle"
+                      />
+                      <span
+                        class="ant-switch-inner"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-row"
+          style="margin: -4px -4px 4px -4px;"
+        >
+          <div
+            class="ant-col ant-col-6"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            Email Content
+          </div>
+          <div
+            class="ant-col ant-col-14"
+            style="padding: 4px 4px 4px 4px;"
+          >
+            <div
+              class="ant-row"
+            >
+              Custom Text Added And Will Be Listed Below
+            </div>
+            <div
+              class="ant-row ant-form-item"
+              data-testid="add-user-email-content-form-item"
+            >
+              <div
+                class="ant-col ant-form-item-control"
+              >
+                <div
+                  class="ant-form-item-control-input"
+                >
+                  <div
+                    class="ant-form-item-control-input-content"
+                  >
+                    <span
+                      class="ant-input-affix-wrapper ant-input-affix-wrapper-textarea-with-clear-btn"
+                    >
+                      <textarea
+                        class="ant-input"
+                        data-testid="add-user-email-invite-textarea"
+                        id="customText"
+                        placeholder="Text are a Placeholder"
+                        rows="6"
+                      />
+                      <span
+                        aria-label="close-circle"
+                        class="anticon anticon-close-circle ant-input-clear-icon-hidden ant-input-clear-icon"
+                        role="button"
+                        tabindex="-1"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          data-icon="close-circle"
+                          fill="currentColor"
+                          focusable="false"
+                          height="1em"
+                          viewBox="64 64 896 896"
+                          width="1em"
+                        >
+                          <path
+                            d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm165.4 618.2l-66-.3L512 563.4l-99.3 118.4-66.1.3c-4.4 0-8-3.5-8-8 0-1.9.7-3.7 1.9-5.2l130.1-155L340.5 359a8.32 8.32 0 01-1.9-5.2c0-4.4 3.6-8 8-8l66.1.3L512 464.6l99.3-118.4 66-.3c4.4 0 8 3.5 8 8 0 1.9-.7 3.7-1.9 5.2L553.5 514l130 155c1.2 1.5 1.9 3.3 1.9 5.2 0 4.4-3.6 8-8 8z"
+                          />
+                        </svg>
+                      </span>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+`;

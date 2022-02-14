@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OnlySupplier component test cases OnlySupplier components snapshot 1`] = `
+<form
+  class="ant-form ant-form-horizontal"
+>
+  <div
+    class="ant-row"
+    style="margin: -4px -4px 4px -4px;"
+  >
+    <div
+      class="ant-col ant-col-4 col1-text"
+      style="padding: 4px 4px 4px 4px;"
+    />
+    <div
+      class="ant-col ant-col-6"
+      style="padding: 4px 4px 4px 4px;"
+    >
+      <div
+        class="ant-row ant-form-item"
+      >
+        <div
+          class="ant-col ant-form-item-label"
+        >
+          <label
+            class="ant-form-item-required"
+            for="target_suppliers"
+            title=""
+          >
+            Supplier
+          </label>
+        </div>
+        <div
+          class="ant-col ant-form-item-control"
+        >
+          <div
+            class="ant-form-item-control-input"
+          >
+            <div
+              class="ant-form-item-control-input-content"
+            >
+              <div
+                class="ant-select ant-select-multiple ant-select-show-search"
+                data-testid="nemo-select-brw-search-supply"
+              >
+                <div
+                  class="ant-select-selector"
+                >
+                  <span
+                    class="ant-select-selection-search"
+                    style="width: 0px;"
+                  >
+                    <input
+                      aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
+                      aria-autocomplete="list"
+                      aria-controls="rc_select_TEST_OR_SSR_list"
+                      aria-haspopup="listbox"
+                      aria-owns="rc_select_TEST_OR_SSR_list"
+                      autocomplete="off"
+                      class="ant-select-selection-search-input"
+                      id="rc_select_TEST_OR_SSR"
+                      readonly=""
+                      role="combobox"
+                      style="opacity: 0;"
+                      type="search"
+                      unselectable="on"
+                      value=""
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="ant-select-selection-search-mirror"
+                    >
+                      
+                       
+                    </span>
+                  </span>
+                  <span
+                    class="ant-select-selection-placeholder"
+                  >
+                    Please Select
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="ant-col ant-col-7"
+      style="padding: 4px 4px 4px 4px;"
+    >
+      <div
+        class="ant-row ant-form-item"
+      >
+        <div
+          class="ant-col ant-form-item-label"
+        >
+          <label
+            class="ant-form-item-required"
+            for="target_channels"
+            title=""
+          >
+            Channels Only For NTP
+          </label>
+        </div>
+        <div
+          class="ant-col ant-form-item-control"
+        >
+          <div
+            class="ant-form-item-control-input"
+          >
+            <div
+              class="ant-form-item-control-input-content"
+            >
+              <div
+                class="ant-select ant-select-multiple ant-select-show-search"
+                data-testid="nemo-select-brw-search-channel"
+              >
+                <div
+                  class="ant-select-selector"
+                >
+                  <span
+                    class="ant-select-selection-search"
+                    style="width: 0px;"
+                  >
+                    <input
+                      aria-activedescendant="rc_select_TEST_OR_SSR_list_0"
+                      aria-autocomplete="list"
+                      aria-controls="rc_select_TEST_OR_SSR_list"
+                      aria-haspopup="listbox"
+                      aria-owns="rc_select_TEST_OR_SSR_list"
+                      autocomplete="off"
+                      class="ant-select-selection-search-input"
+                      id="rc_select_TEST_OR_SSR"
+                      readonly=""
+                      role="combobox"
+                      style="opacity: 0;"
+                      type="search"
+                      unselectable="on"
+                      value=""
+                    />
+                    <span
+                      aria-hidden="true"
+                      class="ant-select-selection-search-mirror"
+                    >
+                      
+                       
+                    </span>
+                  </span>
+                  <span
+                    class="ant-select-selection-placeholder"
+                  >
+                    Please Select
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+`;

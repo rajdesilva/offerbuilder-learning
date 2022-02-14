@@ -1,0 +1,259 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`display property component test create display property components snapshot 1`] = `
+<div
+  class="ant-table-wrapper"
+>
+  <div
+    class="ant-spin-nested-loading"
+  >
+    <div
+      class="ant-spin-container"
+    >
+      <div
+        class="ant-table"
+        data-testid="property-list-table"
+      >
+        <div
+          class="ant-table-container"
+        >
+          <div
+            class="ant-table-content"
+          >
+            <table
+              style="table-layout: auto;"
+            >
+              <colgroup />
+              <tbody
+                class="ant-table-tbody"
+              >
+                <tr
+                  class="ant-table-row ant-table-row-level-0 tr-height"
+                  data-row-key="DEMO_JEEVAN-0true"
+                >
+                  <td
+                    class="ant-table-cell"
+                  >
+                    <div
+                      class="ant-row"
+                      style="margin-left: -8px; margin-right: -8px;"
+                    >
+                      <div
+                        class="ant-col ant-col-6"
+                        style="padding-left: 8px; padding-right: 8px;"
+                      >
+                        <div>
+                          <img
+                            alt=""
+                            data-testid="image"
+                            src="https://res.cloudinary.com/seekda-dev/image/upload/w_1920,h_1080,c_fill,f_auto,fl_lossy,q_auto/development/DEMO_JEEVAN/chambre_double_green_fullsize_ecodef-1140x760.jpg"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="ant-col ant-col-8"
+                        style="padding-left: 8px; padding-right: 8px;"
+                      >
+                        <div
+                          class="ant-space ant-space-horizontal ant-space-align-center"
+                        >
+                          <div
+                            class="ant-space-item"
+                          >
+                            <a
+                              href="/property/DEMO_JEEVAN"
+                            >
+                                
+                              <span>
+                                AJSG Hotel
+                              </span>
+                               
+                               
+                            </a>
+                          </div>
+                        </div>
+                        <div>
+                          Wien
+                          , 
+                          Austria
+                            
+                        </div>
+                        <div>
+                          Best hotel
+                        </div>
+                        <button
+                          class="ant-btn ant-btn-link"
+                          type="button"
+                        >
+                          <span
+                            data-testid="alternative-property-count"
+                          >
+                            5
+                          </span>
+                          <span>
+                              
+                          </span>
+                          <span
+                            data-testid="show-duplicate-properties"
+                          >
+                            Show Duplicate Properties
+                          </span>
+                        </button>
+                      </div>
+                      <div
+                        class="ant-col ant-col-10"
+                        style="padding-left: 8px; padding-right: 8px;"
+                      >
+                        <div
+                          class="ant-row"
+                        >
+                          <div
+                            class="ant-col ant-col-24"
+                          >
+                            <div
+                              class="ant-row"
+                            />
+                          </div>
+                        </div>
+                        <div
+                          class="ant-row"
+                        >
+                          <div
+                            class="ant-divider ant-divider-vertical"
+                            role="separator"
+                          />
+                          <div
+                            class="ant-col ant-col-11"
+                          >
+                            <div>
+                              <div
+                                class="ant-row"
+                                style="margin: -4px -4px 4px -4px;"
+                              >
+                                <div
+                                  class="ant-col ant-col-10"
+                                  style="padding: 4px 4px 4px 4px;"
+                                >
+                                  Supplier
+                                </div>
+                                <div
+                                  class="ant-col ant-col-14"
+                                  style="padding: 4px 4px 4px 4px;"
+                                >
+                                  <strong>
+                                    NTP
+                                    -
+                                    NEMO_CH_04
+                                  </strong>
+                                </div>
+                              </div>
+                              <div
+                                class="ant-row"
+                                style="margin: -4px -4px 4px -4px;"
+                              >
+                                <div
+                                  class="ant-col ant-col-10"
+                                  style="padding: 4px 4px 4px 4px;"
+                                >
+                                  Margin
+                                </div>
+                                <div
+                                  class="ant-col ant-col-14"
+                                  style="padding: 4px 4px 4px 4px;"
+                                >
+                                  <strong>
+                                    11 %
+                                  </strong>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            class="ant-divider ant-divider-vertical"
+                            role="separator"
+                          />
+                          <div
+                            class="ant-col ant-col-11"
+                          >
+                            <div>
+                              <div>
+                                <div>
+                                  <div
+                                    class="ant-row"
+                                    style="margin: -4px -4px 4px -4px;"
+                                  >
+                                    <div
+                                      class="ant-col ant-col-24"
+                                      style="padding: 4px 4px 4px 4px;"
+                                    >
+                                      <div>
+                                        Lowest Price On
+                                         
+                                        NA
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="ant-row"
+                                    style="margin: -4px -4px 4px -4px;"
+                                  >
+                                    <div
+                                      class="ant-col ant-col-11"
+                                      style="padding: 4px 4px 4px 4px;"
+                                    >
+                                      <div>
+                                        B2B Price
+                                      </div>
+                                    </div>
+                                    <div
+                                      class="ant-col ant-col-13"
+                                      style="padding: 4px 4px 4px 4px;"
+                                    >
+                                      <div>
+                                        <strong>
+                                          NA
+                                        </strong>
+                                      </div>
+                                    </div>
+                                  </div>
+                                  <div
+                                    class="ant-row"
+                                    style="margin: -4px -4px 4px -4px;"
+                                  >
+                                    <div
+                                      class="ant-col ant-col-11"
+                                      style="padding: 4px 4px 4px 4px;"
+                                    >
+                                      <div>
+                                        B2C Price
+                                      </div>
+                                    </div>
+                                    <div
+                                      class="ant-col ant-col-13"
+                                      style="padding: 4px 4px 4px 4px;"
+                                    >
+                                      <div>
+                                        <strong>
+                                          NA
+                                        </strong>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

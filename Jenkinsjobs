@@ -1,0 +1,5 @@
+jobs:
+  - name: offerbuilder-frontend
+    auto_master: false
+    description: |
+      Static Website for offerbuilder-frontend

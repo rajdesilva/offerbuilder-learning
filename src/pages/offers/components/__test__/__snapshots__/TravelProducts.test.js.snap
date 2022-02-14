@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TravelProduct component test create TravelProduct components snapshot 1`] = `
+<div
+  class="ant-row"
+  style="margin: -4px -4px 4px -4px;"
+>
+  <div
+    class="ant-col ant-col-6"
+    style="padding: 4px 4px 4px 4px;"
+  >
+    <h3>
+      Travel Product
+    </h3>
+  </div>
+</div>
+`;
